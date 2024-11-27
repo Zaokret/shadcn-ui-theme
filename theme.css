@@ -1,0 +1,33 @@
+.theme-custom {
+    /* CSS: .bg-gradient { background: var(--gradient) } */
+    --gradient: linear-gradient(to top left, #72C6EF, #004E8F);
+
+    --background: 212 52% 6%;
+    --foreground: 212 8% 98%;
+
+    --muted: 212 66% 18%;
+    --muted-foreground: 212 8% 56%;
+
+    --popover: 212 50% 10%;
+    --popover-foreground: 212 8% 98%;
+
+    --card: 212 50% 10%;
+    --card-foreground: 212 8% 98%;
+
+    --border: 212 66% 18%;
+    --input: 212 66% 18%;
+
+    --primary: 212 80% 70%;
+    --primary-foreground: 212 8% 6%;
+
+    --secondary: 212 66% 18%;
+    --secondary-foreground: 212 8% 98%;
+
+    --accent: 212 66% 18%;
+    --accent-foreground: 212 8% 98%;
+
+    --destructive: 0 62% 30%;
+    --destructive-foreground: 212 8% 98%;
+
+    --ring: 212 80% 70%;
+}
